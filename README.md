@@ -45,7 +45,7 @@ All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the optio
 
 ## Test
 
-The following [function](https://github.com/hs-hq/0x1C.c) can be used to print the Binary Tree.
+The following [function](https://github.com/hs-hq/0x1C.c) can be used to print the Binary Tree for test purpose.
 
 ## Authors
 
